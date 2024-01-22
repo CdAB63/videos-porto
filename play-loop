@@ -1,0 +1,5 @@
+#!/bin/bash
+while :; do
+	ffmpeg -re -stream_loop -1 -i 'Slip 01 (Back) 2023-11-23_13h a 13h30m.mkv' \
+	       -c copy -f rtsp -rtsp_transport tcp rtsp://localhost:8554/slip-1 > /dev/null 2>&1
+done
