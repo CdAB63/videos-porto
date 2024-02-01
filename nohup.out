@@ -3161,3 +3161,710 @@
 2024/01/22 17:27:16 WAR [RTSP] [session e58a855f] write queue is full
 2024/01/22 17:27:16 INF [RTSP] [conn 192.168.2.113:39336] closed: received unexpected response
 2024/01/22 17:27:16 INF [RTSP] [session e58a855f] destroyed: not in use
+2024/01/30 15:22:44 INF MediaMTX v1.4.0
+2024/01/30 15:22:44 INF configuration loaded from /home/cdab63/Desenvolvimento/LSITEC/PETROBRAS/videos-porto/mediamtx.yml
+2024/01/30 15:22:44 INF [RTSP] listener opened on :8554 (TCP), :8000 (UDP/RTP), :8001 (UDP/RTCP)
+2024/01/30 15:22:44 INF [RTMP] listener opened on :1935
+2024/01/30 15:22:44 INF [HLS] listener opened on :8888
+2024/01/30 15:22:44 INF [WebRTC] listener opened on :8889 (HTTP), :8189 (ICE/UDP)
+2024/01/30 15:22:44 INF [SRT] listener opened on :8890 (UDP)
+2024/01/30 15:22:52 INF [RTSP] [conn [::1]:40342] opened
+2024/01/30 15:22:52 INF [RTSP] [session 3527691e] created by [::1]:40342
+2024/01/30 15:22:52 INF [RTSP] [session 3527691e] is publishing to path 'slip-1', 1 track (H264)
+2024/01/30 15:23:03 INF [RTSP] [conn [::1]:51208] opened
+2024/01/30 15:23:03 INF [RTSP] [conn [::1]:51208] closed: EOF
+2024/01/30 15:23:03 INF [RTSP] [conn [::1]:51220] opened
+2024/01/30 15:23:03 INF [RTSP] [session 7d4382d3] created by [::1]:51220
+2024/01/30 15:23:03 INF [RTSP] [session 7d4382d3] is reading from path 'slip-1', with UDP, 1 track (H264)
+2024/01/30 15:23:08 INF [RTSP] [session 7d4382d3] destroyed: torn down by [::1]:51220
+2024/01/30 15:23:08 INF [RTSP] [conn [::1]:51220] closed: EOF
+2024/01/30 15:23:29 INF [RTSP] [conn [::1]:38610] opened
+2024/01/30 15:23:29 INF [RTSP] [session b068657c] created by [::1]:38610
+2024/01/30 15:23:29 INF [RTSP] [session b068657c] is reading from path 'slip-1', with TCP, 1 track (H264)
+2024/01/30 15:23:31 INF [RTSP] [session b068657c] destroyed: torn down by [::1]:38610
+2024/01/30 15:23:31 INF [RTSP] [conn [::1]:38610] closed: EOF
+2024/01/30 15:23:31 INF [RTSP] [conn [::1]:38618] opened
+2024/01/30 15:23:31 INF [RTSP] [session 0e77b8ce] created by [::1]:38618
+2024/01/30 15:23:31 INF [RTSP] [session 0e77b8ce] is reading from path 'slip-1', with TCP, 1 track (H264)
+2024/01/30 15:24:27 INF [RTSP] [conn [::1]:38618] closed: read tcp [::1]:8554->[::1]:38618: read: connection reset by peer
+2024/01/30 15:24:27 INF [RTSP] [session 0e77b8ce] destroyed: not in use
+2024/01/30 15:27:11 INF [RTSP] [conn [::1]:39982] opened
+2024/01/30 15:27:11 INF [RTSP] [session e715d821] created by [::1]:39982
+2024/01/30 15:27:11 INF [RTSP] [session e715d821] is reading from path 'slip-1', with TCP, 1 track (H264)
+2024/01/30 15:27:12 INF [RTSP] [session e715d821] destroyed: torn down by [::1]:39982
+2024/01/30 15:27:12 INF [RTSP] [conn [::1]:39982] closed: EOF
+2024/01/30 15:27:12 INF [RTSP] [conn [::1]:39984] opened
+2024/01/30 15:27:12 INF [RTSP] [session c908367e] created by [::1]:39984
+2024/01/30 15:27:12 INF [RTSP] [session c908367e] is reading from path 'slip-1', with TCP, 1 track (H264)
+2024/01/30 15:28:21 WAR [RTSP] [session c908367e] write queue is full
+2024/01/30 15:28:23 WAR [RTSP] [session c908367e] write queue is full
+2024/01/30 15:28:24 WAR [RTSP] [session c908367e] write queue is full
+2024/01/30 15:28:25 WAR [RTSP] [session c908367e] write queue is full
+2024/01/30 15:28:26 WAR [RTSP] [session c908367e] write queue is full
+2024/01/30 15:28:27 WAR [RTSP] [session c908367e] write queue is full
+2024/01/30 15:28:28 WAR [RTSP] [session c908367e] write queue is full
+2024/01/30 15:28:29 WAR [RTSP] [session c908367e] write queue is full
+2024/01/30 15:28:30 INF [RTSP] [conn [::1]:39984] closed: EOF
+2024/01/30 15:28:30 INF [RTSP] [session c908367e] destroyed: not in use
+2024/01/30 15:29:39 INF [RTSP] [conn [::1]:44334] opened
+2024/01/30 15:29:39 INF [RTSP] [session e71c4ac9] created by [::1]:44334
+2024/01/30 15:29:39 INF [RTSP] [session e71c4ac9] is reading from path 'slip-1', with TCP, 1 track (H264)
+2024/01/30 15:29:40 INF [RTSP] [session e71c4ac9] destroyed: torn down by [::1]:44334
+2024/01/30 15:29:40 INF [RTSP] [conn [::1]:44334] closed: EOF
+2024/01/30 15:29:40 INF [RTSP] [conn [::1]:44346] opened
+2024/01/30 15:29:40 INF [RTSP] [session 60b71986] created by [::1]:44346
+2024/01/30 15:29:40 INF [RTSP] [session 60b71986] is reading from path 'slip-1', with TCP, 1 track (H264)
+2024/01/30 15:29:46 INF [RTSP] [session 60b71986] destroyed: torn down by [::1]:44346
+2024/01/30 15:29:46 INF [RTSP] [conn [::1]:44346] closed: EOF
+2024/01/30 15:33:18 INF [RTSP] [conn [::1]:43210] opened
+2024/01/30 15:33:18 INF [RTSP] [session 8c6e5695] created by [::1]:43210
+2024/01/30 15:33:18 INF [RTSP] [session 8c6e5695] is reading from path 'slip-1', with TCP, 1 track (H264)
+2024/01/30 15:33:20 INF [RTSP] [session 8c6e5695] destroyed: torn down by [::1]:43210
+2024/01/30 15:33:20 INF [RTSP] [conn [::1]:43210] closed: EOF
+2024/01/30 15:33:20 INF [RTSP] [conn [::1]:43214] opened
+2024/01/30 15:33:20 INF [RTSP] [session cb096e03] created by [::1]:43214
+2024/01/30 15:33:20 INF [RTSP] [session cb096e03] is reading from path 'slip-1', with TCP, 1 track (H264)
+2024/01/30 15:33:35 INF [RTSP] [session cb096e03] destroyed: torn down by [::1]:43214
+2024/01/30 15:33:35 INF [RTSP] [conn [::1]:43214] closed: EOF
+2024/01/30 16:32:00 INF [RTSP] [conn [::1]:38338] opened
+2024/01/30 16:32:00 INF [RTSP] [session 762978ba] created by [::1]:38338
+2024/01/30 16:32:00 INF [RTSP] [session 762978ba] is reading from path 'slip-1', with TCP, 1 track (H264)
+2024/01/30 16:32:01 INF [RTSP] [session 762978ba] destroyed: torn down by [::1]:38338
+2024/01/30 16:32:01 INF [RTSP] [conn [::1]:38338] closed: EOF
+2024/01/30 16:32:01 INF [RTSP] [conn [::1]:38346] opened
+2024/01/30 16:32:01 INF [RTSP] [session 93e5150d] created by [::1]:38346
+2024/01/30 16:32:01 INF [RTSP] [session 93e5150d] is reading from path 'slip-1', with TCP, 1 track (H264)
+2024/01/30 16:33:12 INF [RTSP] [session 93e5150d] destroyed: torn down by [::1]:38346
+2024/01/30 16:33:12 INF [RTSP] [conn [::1]:38346] closed: EOF
+2024/01/30 16:43:37 INF [RTSP] [conn [::1]:41348] opened
+2024/01/30 16:43:37 INF [RTSP] [session 41458564] created by [::1]:41348
+2024/01/30 16:43:37 INF [RTSP] [session 41458564] is reading from path 'slip-1', with TCP, 1 track (H264)
+2024/01/30 16:43:39 INF [RTSP] [session 41458564] destroyed: torn down by [::1]:41348
+2024/01/30 16:43:39 INF [RTSP] [conn [::1]:41348] closed: EOF
+2024/01/30 16:43:39 INF [RTSP] [conn [::1]:41354] opened
+2024/01/30 16:43:39 INF [RTSP] [session 0199cf57] created by [::1]:41354
+2024/01/30 16:43:39 INF [RTSP] [session 0199cf57] is reading from path 'slip-1', with TCP, 1 track (H264)
+2024/01/30 16:44:31 INF [RTSP] [session 0199cf57] destroyed: torn down by [::1]:41354
+2024/01/30 16:44:31 INF [RTSP] [conn [::1]:41354] closed: EOF
+2024/01/30 16:45:13 INF [RTSP] [conn [::1]:47854] opened
+2024/01/30 16:45:13 INF [RTSP] [session df4d404c] created by [::1]:47854
+2024/01/30 16:45:13 INF [RTSP] [session df4d404c] is reading from path 'slip-1', with TCP, 1 track (H264)
+2024/01/30 16:45:14 INF [RTSP] [session df4d404c] destroyed: torn down by [::1]:47854
+2024/01/30 16:45:14 INF [RTSP] [conn [::1]:47854] closed: EOF
+2024/01/30 16:45:14 INF [RTSP] [conn [::1]:47858] opened
+2024/01/30 16:45:14 INF [RTSP] [session f69b40b9] created by [::1]:47858
+2024/01/30 16:45:14 INF [RTSP] [session f69b40b9] is reading from path 'slip-1', with TCP, 1 track (H264)
+2024/01/30 16:46:22 INF [RTSP] [session f69b40b9] destroyed: torn down by [::1]:47858
+2024/01/30 16:46:22 INF [RTSP] [conn [::1]:47858] closed: EOF
+2024/01/30 16:51:05 INF [RTSP] [conn [::1]:45144] opened
+2024/01/30 16:51:05 INF [RTSP] [session 915945ab] created by [::1]:45144
+2024/01/30 16:51:05 INF [RTSP] [session 915945ab] is reading from path 'slip-1', with TCP, 1 track (H264)
+2024/01/30 16:51:07 INF [RTSP] [session 915945ab] destroyed: torn down by [::1]:45144
+2024/01/30 16:51:07 INF [RTSP] [conn [::1]:45144] closed: EOF
+2024/01/30 16:51:07 INF [RTSP] [conn [::1]:38560] opened
+2024/01/30 16:51:07 INF [RTSP] [session df3ee211] created by [::1]:38560
+2024/01/30 16:51:07 INF [RTSP] [session df3ee211] is reading from path 'slip-1', with TCP, 1 track (H264)
+2024/01/30 16:53:24 INF [RTSP] [session df3ee211] destroyed: torn down by [::1]:38560
+2024/01/30 16:53:24 INF [RTSP] [conn [::1]:38560] closed: EOF
+2024/01/30 16:56:52 INF [RTSP] [conn [::1]:51424] opened
+2024/01/30 16:56:52 INF [RTSP] [session abad6b1a] created by [::1]:51424
+2024/01/30 16:56:52 INF [RTSP] [session abad6b1a] is reading from path 'slip-1', with TCP, 1 track (H264)
+2024/01/30 16:56:54 INF [RTSP] [session abad6b1a] destroyed: torn down by [::1]:51424
+2024/01/30 16:56:54 INF [RTSP] [conn [::1]:51424] closed: EOF
+2024/01/30 16:56:54 INF [RTSP] [conn [::1]:51430] opened
+2024/01/30 16:56:54 INF [RTSP] [session 2e41a5b6] created by [::1]:51430
+2024/01/30 16:56:54 INF [RTSP] [session 2e41a5b6] is reading from path 'slip-1', with TCP, 1 track (H264)
+2024/01/30 16:57:47 INF [RTSP] [session 2e41a5b6] destroyed: torn down by [::1]:51430
+2024/01/30 16:57:47 INF [RTSP] [conn [::1]:51430] closed: EOF
+2024/01/30 16:58:37 INF [RTSP] [conn [::1]:52402] opened
+2024/01/30 16:58:37 INF [RTSP] [session d01dea41] created by [::1]:52402
+2024/01/30 16:58:37 INF [RTSP] [session d01dea41] is reading from path 'slip-1', with TCP, 1 track (H264)
+2024/01/30 16:58:38 INF [RTSP] [session d01dea41] destroyed: torn down by [::1]:52402
+2024/01/30 16:58:38 INF [RTSP] [conn [::1]:52402] closed: EOF
+2024/01/30 16:58:38 INF [RTSP] [conn [::1]:52408] opened
+2024/01/30 16:58:38 INF [RTSP] [session 30824b78] created by [::1]:52408
+2024/01/30 16:58:38 INF [RTSP] [session 30824b78] is reading from path 'slip-1', with TCP, 1 track (H264)
+2024/01/30 16:59:06 INF [RTSP] [session 30824b78] destroyed: torn down by [::1]:52408
+2024/01/30 16:59:06 INF [RTSP] [conn [::1]:52408] closed: EOF
+2024/01/30 16:59:53 INF [RTSP] [conn [::1]:35562] opened
+2024/01/30 16:59:53 INF [RTSP] [session 28e0a0cb] created by [::1]:35562
+2024/01/30 16:59:53 INF [RTSP] [session 28e0a0cb] is reading from path 'slip-1', with TCP, 1 track (H264)
+2024/01/30 16:59:55 INF [RTSP] [session 28e0a0cb] destroyed: torn down by [::1]:35562
+2024/01/30 16:59:55 INF [RTSP] [conn [::1]:35562] closed: EOF
+2024/01/30 16:59:55 INF [RTSP] [conn [::1]:35570] opened
+2024/01/30 16:59:55 INF [RTSP] [session 11ccaa1b] created by [::1]:35570
+2024/01/30 16:59:55 INF [RTSP] [session 11ccaa1b] is reading from path 'slip-1', with TCP, 1 track (H264)
+2024/01/30 17:00:37 INF [RTSP] [session 11ccaa1b] destroyed: torn down by [::1]:35570
+2024/01/30 17:00:37 INF [RTSP] [conn [::1]:35570] closed: EOF
+2024/01/30 17:02:57 INF [RTSP] [conn [::1]:51282] opened
+2024/01/30 17:02:57 INF [RTSP] [session 110ffd7c] created by [::1]:51282
+2024/01/30 17:02:57 INF [RTSP] [session 110ffd7c] is reading from path 'slip-1', with TCP, 1 track (H264)
+2024/01/30 17:02:59 INF [RTSP] [session 110ffd7c] destroyed: torn down by [::1]:51282
+2024/01/30 17:02:59 INF [RTSP] [conn [::1]:51282] closed: EOF
+2024/01/30 17:02:59 INF [RTSP] [conn [::1]:51298] opened
+2024/01/30 17:02:59 INF [RTSP] [session ace848f8] created by [::1]:51298
+2024/01/30 17:02:59 INF [RTSP] [session ace848f8] is reading from path 'slip-1', with TCP, 1 track (H264)
+2024/01/30 17:04:14 INF [RTSP] [session ace848f8] destroyed: torn down by [::1]:51298
+2024/01/30 17:04:14 INF [RTSP] [conn [::1]:51298] closed: EOF
+2024/01/30 17:36:00 INF [RTSP] [conn [::1]:35742] opened
+2024/01/30 17:36:00 INF [RTSP] [session 92ceb746] created by [::1]:35742
+2024/01/30 17:36:00 INF [RTSP] [session 92ceb746] is reading from path 'slip-1', with TCP, 1 track (H264)
+2024/01/30 17:36:02 INF [RTSP] [session 92ceb746] destroyed: torn down by [::1]:35742
+2024/01/30 17:36:02 INF [RTSP] [conn [::1]:35742] closed: EOF
+2024/01/30 17:36:02 INF [RTSP] [conn [::1]:35748] opened
+2024/01/30 17:36:02 INF [RTSP] [session f09923ab] created by [::1]:35748
+2024/01/30 17:36:02 INF [RTSP] [session f09923ab] is reading from path 'slip-1', with TCP, 1 track (H264)
+2024/01/30 17:36:09 INF [RTSP] [session f09923ab] destroyed: torn down by [::1]:35748
+2024/01/30 17:36:09 INF [RTSP] [conn [::1]:35748] closed: EOF
+2024/01/30 19:15:19 INF [RTSP] [conn [::1]:53282] opened
+2024/01/30 19:15:19 INF [RTSP] [session 0bce9e14] created by [::1]:53282
+2024/01/30 19:15:19 INF [RTSP] [session 0bce9e14] is reading from path 'slip-1', with TCP, 1 track (H264)
+2024/01/30 19:16:01 INF [RTSP] [session 0bce9e14] destroyed: torn down by [::1]:53282
+2024/01/30 19:16:01 INF [RTSP] [conn [::1]:53282] closed: read tcp [::1]:8554->[::1]:53282: read: connection reset by peer
+2024/01/30 19:35:33 INF [RTSP] [conn [::1]:34592] opened
+2024/01/30 19:35:33 INF [RTSP] [session 2be6016d] created by [::1]:34592
+2024/01/30 19:35:33 INF [RTSP] [session 2be6016d] is reading from path 'slip-1', with TCP, 1 track (H264)
+2024/01/30 19:36:29 INF [RTSP] [session 2be6016d] destroyed: torn down by [::1]:34592
+2024/01/30 19:36:29 INF [RTSP] [conn [::1]:34592] closed: read tcp [::1]:8554->[::1]:34592: read: connection reset by peer
+2024/01/30 19:39:58 INF [RTSP] [conn [::1]:40672] opened
+2024/01/30 19:39:58 INF [RTSP] [session a3e9bb7a] created by [::1]:40672
+2024/01/30 19:39:58 INF [RTSP] [session a3e9bb7a] is reading from path 'slip-1', with TCP, 1 track (H264)
+2024/01/30 19:42:02 WAR [RTSP] [session a3e9bb7a] write queue is full
+2024/01/30 19:42:03 WAR [RTSP] [session a3e9bb7a] write queue is full
+2024/01/30 19:42:04 WAR [RTSP] [session a3e9bb7a] write queue is full
+2024/01/30 19:42:05 WAR [RTSP] [session a3e9bb7a] write queue is full
+2024/01/30 19:42:06 WAR [RTSP] [session a3e9bb7a] write queue is full
+2024/01/30 19:42:07 WAR [RTSP] [session a3e9bb7a] write queue is full
+2024/01/30 19:42:08 WAR [RTSP] [session a3e9bb7a] write queue is full
+2024/01/30 19:42:09 WAR [RTSP] [session a3e9bb7a] write queue is full
+2024/01/30 19:42:10 WAR [RTSP] [session a3e9bb7a] write queue is full
+2024/01/30 19:42:11 WAR [RTSP] [session a3e9bb7a] write queue is full
+2024/01/30 19:42:12 WAR [RTSP] [session a3e9bb7a] write queue is full
+2024/01/30 19:42:13 WAR [RTSP] [session a3e9bb7a] write queue is full
+2024/01/30 19:42:14 WAR [RTSP] [session a3e9bb7a] write queue is full
+2024/01/30 19:42:19 INF [RTSP] [session a3e9bb7a] destroyed: torn down by [::1]:40672
+2024/01/30 19:42:19 INF [RTSP] [conn [::1]:40672] closed: read tcp [::1]:8554->[::1]:40672: read: connection reset by peer
+2024/01/31 12:32:51 INF MediaMTX v1.4.0
+2024/01/31 12:32:51 INF configuration loaded from /home/cdab63/Desenvolvimento/LSITEC/PETROBRAS/videos-porto/mediamtx.yml
+2024/01/31 12:32:51 INF [RTSP] listener opened on :8554 (TCP), :8000 (UDP/RTP), :8001 (UDP/RTCP)
+2024/01/31 12:32:51 INF [RTMP] listener opened on :1935
+2024/01/31 12:32:51 INF [HLS] listener opened on :8888
+2024/01/31 12:32:51 INF [WebRTC] listener opened on :8889 (HTTP), :8189 (ICE/UDP)
+2024/01/31 12:32:51 INF [SRT] listener opened on :8890 (UDP)
+2024/01/31 12:32:59 INF [RTSP] [conn [::1]:54154] opened
+2024/01/31 12:32:59 INF [RTSP] [session 87481f65] created by [::1]:54154
+2024/01/31 12:32:59 INF [RTSP] [session 87481f65] is publishing to path 'slip-1', 1 track (H264)
+2024/01/31 12:33:01 INF [RTSP] [conn [::1]:54170] opened
+2024/01/31 12:33:01 INF [RTSP] [session 058006a4] created by [::1]:54170
+2024/01/31 12:33:01 INF [RTSP] [session 058006a4] is reading from path 'slip-1', with TCP, 1 track (H264)
+2024/01/31 12:33:03 INF [RTSP] [session 058006a4] destroyed: torn down by [::1]:54170
+2024/01/31 12:33:03 INF [RTSP] [conn [::1]:54170] closed: EOF
+2024/01/31 12:33:03 INF [RTSP] [conn [::1]:54182] opened
+2024/01/31 12:33:03 INF [RTSP] [session 45c5abfa] created by [::1]:54182
+2024/01/31 12:33:03 INF [RTSP] [session 45c5abfa] is reading from path 'slip-1', with TCP, 1 track (H264)
+2024/01/31 12:33:53 INF [RTSP] [session 45c5abfa] destroyed: torn down by [::1]:54182
+2024/01/31 12:33:53 INF [RTSP] [conn [::1]:54182] closed: EOF
+2024/01/31 13:17:16 INF [RTSP] [conn [::1]:54418] opened
+2024/01/31 13:17:16 INF [RTSP] [session e5eb9b54] created by [::1]:54418
+2024/01/31 13:17:16 INF [RTSP] [session e5eb9b54] is reading from path 'slip-1', with TCP, 1 track (H264)
+2024/01/31 13:17:17 INF [RTSP] [session e5eb9b54] destroyed: torn down by [::1]:54418
+2024/01/31 13:17:17 INF [RTSP] [conn [::1]:54418] closed: EOF
+2024/01/31 13:17:17 INF [RTSP] [conn [::1]:54422] opened
+2024/01/31 13:17:17 INF [RTSP] [session c3184630] created by [::1]:54422
+2024/01/31 13:17:17 INF [RTSP] [session c3184630] is reading from path 'slip-1', with TCP, 1 track (H264)
+2024/01/31 13:17:47 INF [RTSP] [session c3184630] destroyed: torn down by [::1]:54422
+2024/01/31 13:17:47 INF [RTSP] [conn [::1]:54422] closed: EOF
+2024/01/31 14:46:03 INF [RTSP] [conn [::1]:44804] opened
+2024/01/31 14:46:03 INF [RTSP] [session b1763199] created by [::1]:44804
+2024/01/31 14:46:03 INF [RTSP] [session b1763199] is reading from path 'slip-1', with TCP, 1 track (H264)
+2024/01/31 14:49:09 INF [RTSP] [session b1763199] destroyed: torn down by [::1]:44804
+2024/01/31 14:49:09 INF [RTSP] [conn [::1]:44804] closed: read tcp [::1]:8554->[::1]:44804: read: connection reset by peer
+2024/01/31 15:00:35 INF [RTSP] [conn [::1]:32820] opened
+2024/01/31 15:00:35 INF [RTSP] [session 5e86d33d] created by [::1]:32820
+2024/01/31 15:00:35 INF [RTSP] [session 5e86d33d] is reading from path 'slip-1', with TCP, 1 track (H264)
+2024/01/31 15:00:36 INF [RTSP] [session 5e86d33d] destroyed: torn down by [::1]:32820
+2024/01/31 15:00:36 INF [RTSP] [conn [::1]:32820] closed: EOF
+2024/01/31 15:00:36 INF [RTSP] [conn [::1]:32828] opened
+2024/01/31 15:00:36 INF [RTSP] [session 7f7189bc] created by [::1]:32828
+2024/01/31 15:00:36 INF [RTSP] [session 7f7189bc] is reading from path 'slip-1', with TCP, 1 track (H264)
+2024/01/31 15:00:38 INF [RTSP] [session 7f7189bc] destroyed: torn down by [::1]:32828
+2024/01/31 15:00:38 INF [RTSP] [conn [::1]:32828] closed: EOF
+2024/01/31 15:00:38 INF [RTSP] [conn [::1]:32830] opened
+2024/01/31 15:00:38 INF [RTSP] [session eab84cce] created by [::1]:32830
+2024/01/31 15:00:38 INF [RTSP] [session eab84cce] is reading from path 'slip-1', with TCP, 1 track (H264)
+2024/01/31 15:00:40 INF [RTSP] [session eab84cce] destroyed: torn down by [::1]:32830
+2024/01/31 15:00:40 INF [RTSP] [conn [::1]:32830] closed: EOF
+2024/01/31 15:00:40 INF [RTSP] [conn [::1]:45210] opened
+2024/01/31 15:00:40 INF [RTSP] [session 21f03b20] created by [::1]:45210
+2024/01/31 15:00:40 INF [RTSP] [session 21f03b20] is reading from path 'slip-1', with TCP, 1 track (H264)
+2024/01/31 15:01:05 INF [RTSP] [session 21f03b20] destroyed: torn down by [::1]:45210
+2024/01/31 15:01:05 INF [RTSP] [conn [::1]:45210] closed: EOF
+2024/01/31 15:03:46 INF [RTSP] [conn [::1]:36580] opened
+2024/01/31 15:03:46 INF [RTSP] [session c0e3b30d] created by [::1]:36580
+2024/01/31 15:03:46 INF [RTSP] [session c0e3b30d] is reading from path 'slip-1', with TCP, 1 track (H264)
+2024/01/31 15:04:52 INF [RTSP] [session c0e3b30d] destroyed: torn down by [::1]:36580
+2024/01/31 15:04:52 INF [RTSP] [conn [::1]:36580] closed: read tcp [::1]:8554->[::1]:36580: read: connection reset by peer
+2024/01/31 15:04:52 INF [RTSP] [conn [::1]:45372] opened
+2024/01/31 15:04:52 INF [RTSP] [session 0d73e7d8] created by [::1]:45372
+2024/01/31 15:04:52 INF [RTSP] [session 0d73e7d8] is reading from path 'slip-1', with TCP, 1 track (H264)
+2024/01/31 15:05:10 INF [RTSP] [session 0d73e7d8] destroyed: torn down by [::1]:45372
+2024/01/31 15:05:10 INF [RTSP] [conn [::1]:45372] closed: EOF
+2024/01/31 15:05:10 INF [RTSP] [conn [::1]:39376] opened
+2024/01/31 15:05:10 INF [RTSP] [session 6b3784b1] created by [::1]:39376
+2024/01/31 15:05:10 INF [RTSP] [session 6b3784b1] is reading from path 'slip-1', with TCP, 1 track (H264)
+2024/01/31 15:05:15 INF [RTSP] [session 6b3784b1] destroyed: torn down by [::1]:39376
+2024/01/31 15:05:15 INF [RTSP] [conn [::1]:39376] closed: EOF
+2024/01/31 15:05:15 INF [RTSP] [conn [::1]:39390] opened
+2024/01/31 15:05:15 INF [RTSP] [session 74ea4384] created by [::1]:39390
+2024/01/31 15:05:15 INF [RTSP] [session 74ea4384] is reading from path 'slip-1', with TCP, 1 track (H264)
+2024/01/31 15:05:19 INF [RTSP] [session 74ea4384] destroyed: torn down by [::1]:39390
+2024/01/31 15:05:19 INF [RTSP] [conn [::1]:39390] closed: EOF
+2024/01/31 15:05:19 INF [RTSP] [conn [::1]:39398] opened
+2024/01/31 15:05:19 INF [RTSP] [session 704415c8] created by [::1]:39398
+2024/01/31 15:05:19 INF [RTSP] [session 704415c8] is reading from path 'slip-1', with TCP, 1 track (H264)
+2024/01/31 15:05:27 INF [RTSP] [session 704415c8] destroyed: torn down by [::1]:39398
+2024/01/31 15:05:27 INF [RTSP] [conn [::1]:39398] closed: EOF
+2024/01/31 15:05:27 INF [RTSP] [conn [::1]:51490] opened
+2024/01/31 15:05:27 INF [RTSP] [session 3ab265bb] created by [::1]:51490
+2024/01/31 15:05:27 INF [RTSP] [session 3ab265bb] is reading from path 'slip-1', with TCP, 1 track (H264)
+2024/01/31 15:05:30 INF [RTSP] [session 3ab265bb] destroyed: torn down by [::1]:51490
+2024/01/31 15:05:30 INF [RTSP] [conn [::1]:51490] closed: EOF
+2024/01/31 15:09:37 INF [RTSP] [conn [::1]:41128] opened
+2024/01/31 15:09:37 INF [RTSP] [session 74cb94af] created by [::1]:41128
+2024/01/31 15:09:37 INF [RTSP] [session 74cb94af] is reading from path 'slip-1', with TCP, 1 track (H264)
+2024/01/31 15:11:39 INF [RTSP] [session 74cb94af] destroyed: torn down by [::1]:41128
+2024/01/31 15:11:39 INF [RTSP] [conn [::1]:41128] closed: read tcp [::1]:8554->[::1]:41128: read: connection reset by peer
+2024/01/31 15:11:39 INF [RTSP] [conn [::1]:36356] opened
+2024/01/31 15:11:39 INF [RTSP] [session 8dccb541] created by [::1]:36356
+2024/01/31 15:11:39 INF [RTSP] [session 8dccb541] is reading from path 'slip-1', with TCP, 1 track (H264)
+2024/01/31 15:13:41 INF [RTSP] [session 8dccb541] destroyed: torn down by [::1]:36356
+2024/01/31 15:13:41 INF [RTSP] [conn [::1]:36356] closed: EOF
+2024/01/31 15:13:41 INF [RTSP] [conn [::1]:49730] opened
+2024/01/31 15:13:41 INF [RTSP] [session 1130e3e7] created by [::1]:49730
+2024/01/31 15:13:41 INF [RTSP] [session 1130e3e7] is reading from path 'slip-1', with TCP, 1 track (H264)
+2024/01/31 15:15:43 INF [RTSP] [session 1130e3e7] destroyed: torn down by [::1]:49730
+2024/01/31 15:15:43 INF [RTSP] [conn [::1]:49730] closed: EOF
+2024/01/31 15:15:43 INF [RTSP] [conn [::1]:42892] opened
+2024/01/31 15:15:43 INF [RTSP] [session 5f6c3fc8] created by [::1]:42892
+2024/01/31 15:15:43 INF [RTSP] [session 5f6c3fc8] is reading from path 'slip-1', with TCP, 1 track (H264)
+2024/01/31 15:17:44 INF [RTSP] [session 5f6c3fc8] destroyed: torn down by [::1]:42892
+2024/01/31 15:17:44 INF [RTSP] [conn [::1]:42892] closed: read tcp [::1]:8554->[::1]:42892: read: connection reset by peer
+2024/01/31 15:17:44 INF [RTSP] [conn [::1]:55848] opened
+2024/01/31 15:17:44 INF [RTSP] [session d49387c5] created by [::1]:55848
+2024/01/31 15:17:44 INF [RTSP] [session d49387c5] is reading from path 'slip-1', with TCP, 1 track (H264)
+2024/01/31 15:19:46 INF [RTSP] [session d49387c5] destroyed: torn down by [::1]:55848
+2024/01/31 15:19:46 INF [RTSP] [conn [::1]:55848] closed: EOF
+2024/01/31 15:19:46 INF [RTSP] [conn [::1]:50598] opened
+2024/01/31 15:19:46 INF [RTSP] [session 51b0f2f9] created by [::1]:50598
+2024/01/31 15:19:46 INF [RTSP] [session 51b0f2f9] is reading from path 'slip-1', with TCP, 1 track (H264)
+2024/01/31 15:21:48 INF [RTSP] [conn [::1]:50598] closed: write tcp [::1]:8554->[::1]:50598: write: broken pipe
+2024/01/31 15:21:48 INF [RTSP] [session 51b0f2f9] destroyed: not in use
+2024/01/31 16:06:18 INF [RTSP] [conn [::1]:49868] opened
+2024/01/31 16:06:18 INF [RTSP] [session 7c2b6d7a] created by [::1]:49868
+2024/01/31 16:06:18 INF [RTSP] [session 7c2b6d7a] is reading from path 'slip-1', with TCP, 1 track (H264)
+2024/01/31 16:08:19 INF [RTSP] [session 7c2b6d7a] destroyed: torn down by [::1]:49868
+2024/01/31 16:08:19 INF [RTSP] [conn [::1]:49868] closed: read tcp [::1]:8554->[::1]:49868: read: connection reset by peer
+2024/01/31 16:08:19 INF [RTSP] [conn [::1]:46560] opened
+2024/01/31 16:08:19 INF [RTSP] [session 9daeb4df] created by [::1]:46560
+2024/01/31 16:08:19 INF [RTSP] [session 9daeb4df] is reading from path 'slip-1', with TCP, 1 track (H264)
+2024/01/31 16:09:53 WAR [RTSP] [session 9daeb4df] write queue is full
+2024/01/31 16:09:54 WAR [RTSP] [session 9daeb4df] write queue is full
+2024/01/31 16:09:55 WAR [RTSP] [session 9daeb4df] write queue is full
+2024/01/31 16:09:56 WAR [RTSP] [session 9daeb4df] write queue is full
+2024/01/31 16:09:57 WAR [RTSP] [session 9daeb4df] write queue is full
+2024/01/31 16:09:58 WAR [RTSP] [session 9daeb4df] write queue is full
+2024/01/31 16:09:59 WAR [RTSP] [session 9daeb4df] write queue is full
+2024/01/31 16:10:03 WAR [RTSP] [session 9daeb4df] write queue is full
+2024/01/31 16:10:04 WAR [RTSP] [session 9daeb4df] write queue is full
+2024/01/31 16:10:05 WAR [RTSP] [session 9daeb4df] write queue is full
+2024/01/31 16:10:06 WAR [RTSP] [session 9daeb4df] write queue is full
+2024/01/31 16:10:08 WAR [RTSP] [session 9daeb4df] write queue is full
+2024/01/31 16:10:09 WAR [RTSP] [session 9daeb4df] write queue is full
+2024/01/31 16:10:10 WAR [RTSP] [session 9daeb4df] write queue is full
+2024/01/31 16:10:16 WAR [RTSP] [session 9daeb4df] write queue is full
+2024/01/31 16:10:17 WAR [RTSP] [session 9daeb4df] write queue is full
+2024/01/31 16:10:18 WAR [RTSP] [session 9daeb4df] write queue is full
+2024/01/31 16:10:19 WAR [RTSP] [session 9daeb4df] write queue is full
+2024/01/31 16:10:20 WAR [RTSP] [session 9daeb4df] write queue is full
+2024/01/31 16:10:21 WAR [RTSP] [session 9daeb4df] write queue is full
+2024/01/31 16:10:21 INF [RTSP] [session 9daeb4df] destroyed: torn down by [::1]:46560
+2024/01/31 16:10:21 INF [RTSP] [conn [::1]:46560] closed: read tcp [::1]:8554->[::1]:46560: read: connection reset by peer
+2024/01/31 16:10:21 INF [RTSP] [conn [::1]:45850] opened
+2024/01/31 16:10:21 INF [RTSP] [session 6c8e0396] created by [::1]:45850
+2024/01/31 16:10:21 INF [RTSP] [session 6c8e0396] is reading from path 'slip-1', with TCP, 1 track (H264)
+2024/01/31 16:12:30 INF [RTSP] [session 6c8e0396] destroyed: torn down by [::1]:45850
+2024/01/31 16:12:30 INF [RTSP] [conn [::1]:45850] closed: EOF
+2024/01/31 16:12:30 INF [RTSP] [conn [::1]:53226] opened
+2024/01/31 16:12:30 INF [RTSP] [session 469fd345] created by [::1]:53226
+2024/01/31 16:12:30 INF [RTSP] [session 469fd345] is reading from path 'slip-1', with TCP, 1 track (H264)
+2024/01/31 16:14:27 WAR [RTSP] [session 469fd345] write queue is full
+2024/01/31 16:14:32 INF [RTSP] [session 469fd345] destroyed: torn down by [::1]:53226
+2024/01/31 16:14:32 INF [RTSP] [conn [::1]:53226] closed: read tcp [::1]:8554->[::1]:53226: read: connection reset by peer
+2024/01/31 16:14:32 INF [RTSP] [conn [::1]:59538] opened
+2024/01/31 16:14:32 INF [RTSP] [session c8dd9940] created by [::1]:59538
+2024/01/31 16:14:32 INF [RTSP] [session c8dd9940] is reading from path 'slip-1', with TCP, 1 track (H264)
+2024/01/31 16:16:33 INF [RTSP] [conn [::1]:59538] closed: write tcp [::1]:8554->[::1]:59538: write: broken pipe
+2024/01/31 16:16:33 INF [RTSP] [session c8dd9940] destroyed: not in use
+2024/01/31 16:16:33 INF [RTSP] [conn [::1]:43010] opened
+2024/01/31 16:16:33 INF [RTSP] [session a9731006] created by [::1]:43010
+2024/01/31 16:16:33 INF [RTSP] [session a9731006] is reading from path 'slip-1', with TCP, 1 track (H264)
+2024/01/31 16:18:20 WAR [RTSP] [session a9731006] write queue is full
+2024/01/31 16:18:21 WAR [RTSP] [session a9731006] write queue is full
+2024/01/31 16:18:32 WAR [RTSP] [session a9731006] write queue is full
+2024/01/31 16:18:34 WAR [RTSP] [session a9731006] write queue is full
+2024/01/31 16:18:35 WAR [RTSP] [session a9731006] write queue is full
+2024/01/31 16:18:41 WAR [RTSP] [session a9731006] write queue is full
+2024/01/31 16:18:42 WAR [RTSP] [session a9731006] write queue is full
+2024/01/31 16:18:42 INF [RTSP] [session a9731006] destroyed: torn down by [::1]:43010
+2024/01/31 16:18:42 INF [RTSP] [conn [::1]:43010] closed: EOF
+2024/01/31 16:31:07 INF [RTSP] [conn [::1]:58390] opened
+2024/01/31 16:31:07 INF [RTSP] [session 8aac8aed] created by [::1]:58390
+2024/01/31 16:31:07 INF [RTSP] [session 8aac8aed] is publishing to path 'slip-2', 1 track (H264)
+2024/01/31 16:31:49 INF [RTSP] [conn [::1]:35166] opened
+2024/01/31 16:31:49 INF [RTSP] [session b5b6107a] created by [::1]:35166
+2024/01/31 16:31:49 INF [RTSP] [session b5b6107a] is reading from path 'slip-2', with TCP, 1 track (H264)
+2024/01/31 16:31:50 INF [RTSP] [session b5b6107a] destroyed: torn down by [::1]:35166
+2024/01/31 16:31:50 INF [RTSP] [conn [::1]:35166] closed: EOF
+2024/01/31 16:31:50 INF [RTSP] [conn [::1]:52330] opened
+2024/01/31 16:31:50 INF [RTSP] [session 51ffcca9] created by [::1]:52330
+2024/01/31 16:31:50 INF [RTSP] [session 51ffcca9] is reading from path 'slip-2', with TCP, 1 track (H264)
+2024/01/31 16:32:20 INF [RTSP] [session 51ffcca9] destroyed: torn down by [::1]:52330
+2024/01/31 16:32:20 INF [RTSP] [conn [::1]:52330] closed: EOF
+2024/01/31 16:32:44 INF [RTSP] [conn [::1]:37214] opened
+2024/01/31 16:32:44 INF [RTSP] [session 689b4835] created by [::1]:37214
+2024/01/31 16:32:44 INF [RTSP] [session 689b4835] is reading from path 'slip-2', with TCP, 1 track (H264)
+2024/01/31 16:32:46 INF [RTSP] [session 689b4835] destroyed: torn down by [::1]:37214
+2024/01/31 16:32:46 INF [RTSP] [conn [::1]:37214] closed: EOF
+2024/01/31 16:32:46 INF [RTSP] [conn [::1]:37222] opened
+2024/01/31 16:32:46 INF [RTSP] [session 7d1b7090] created by [::1]:37222
+2024/01/31 16:32:46 INF [RTSP] [session 7d1b7090] is reading from path 'slip-2', with TCP, 1 track (H264)
+2024/01/31 16:33:24 INF [RTSP] [session 7d1b7090] destroyed: torn down by [::1]:37222
+2024/01/31 16:33:24 INF [RTSP] [conn [::1]:37222] closed: EOF
+2024/01/31 16:35:07 INF [RTSP] [conn [::1]:56872] opened
+2024/01/31 16:35:07 INF [RTSP] [session a29144bc] created by [::1]:56872
+2024/01/31 16:35:07 INF [RTSP] [session a29144bc] is reading from path 'slip-2', with TCP, 1 track (H264)
+2024/01/31 16:35:08 INF [RTSP] [session a29144bc] destroyed: torn down by [::1]:56872
+2024/01/31 16:35:08 INF [RTSP] [conn [::1]:56872] closed: EOF
+2024/01/31 16:35:08 INF [RTSP] [conn [::1]:56882] opened
+2024/01/31 16:35:08 INF [RTSP] [session fbd0b6e1] created by [::1]:56882
+2024/01/31 16:35:08 INF [RTSP] [session fbd0b6e1] is reading from path 'slip-2', with TCP, 1 track (H264)
+2024/01/31 16:35:10 INF [RTSP] [session fbd0b6e1] destroyed: torn down by [::1]:56882
+2024/01/31 16:35:10 INF [RTSP] [conn [::1]:56882] closed: EOF
+2024/01/31 16:38:37 INF [RTSP] [conn [::1]:34496] opened
+2024/01/31 16:38:37 INF [RTSP] [session 1d147b4d] created by [::1]:34496
+2024/01/31 16:38:37 INF [RTSP] [session 1d147b4d] is reading from path 'slip-2', with TCP, 1 track (H264)
+2024/01/31 16:38:39 INF [RTSP] [session 1d147b4d] destroyed: torn down by [::1]:34496
+2024/01/31 16:38:39 INF [RTSP] [conn [::1]:34496] closed: EOF
+2024/01/31 16:38:39 INF [RTSP] [conn [::1]:49764] opened
+2024/01/31 16:38:39 INF [RTSP] [session a458879e] created by [::1]:49764
+2024/01/31 16:38:39 INF [RTSP] [session a458879e] is reading from path 'slip-2', with TCP, 1 track (H264)
+2024/01/31 16:39:27 INF [RTSP] [session a458879e] destroyed: torn down by [::1]:49764
+2024/01/31 16:39:27 INF [RTSP] [conn [::1]:49764] closed: EOF
+2024/01/31 16:40:16 INF [RTSP] [conn [::1]:50118] opened
+2024/01/31 16:40:16 INF [RTSP] [session b7accb6c] created by [::1]:50118
+2024/01/31 16:40:16 INF [RTSP] [session b7accb6c] is reading from path 'slip-2', with TCP, 1 track (H264)
+2024/01/31 16:40:18 INF [RTSP] [session b7accb6c] destroyed: torn down by [::1]:50118
+2024/01/31 16:40:18 INF [RTSP] [conn [::1]:50118] closed: EOF
+2024/01/31 16:40:18 INF [RTSP] [conn [::1]:50132] opened
+2024/01/31 16:40:18 INF [RTSP] [session e8c2c456] created by [::1]:50132
+2024/01/31 16:40:18 INF [RTSP] [session e8c2c456] is reading from path 'slip-2', with TCP, 1 track (H264)
+2024/01/31 16:40:34 INF [RTSP] [session e8c2c456] destroyed: torn down by [::1]:50132
+2024/01/31 16:40:34 INF [RTSP] [conn [::1]:50132] closed: EOF
+2024/01/31 16:42:05 INF [RTSP] [conn [::1]:50376] opened
+2024/01/31 16:42:05 INF [RTSP] [session 128e1477] created by [::1]:50376
+2024/01/31 16:42:05 INF [RTSP] [session 128e1477] is reading from path 'slip-2', with TCP, 1 track (H264)
+2024/01/31 16:42:07 INF [RTSP] [session 128e1477] destroyed: torn down by [::1]:50376
+2024/01/31 16:42:07 INF [RTSP] [conn [::1]:50376] closed: EOF
+2024/01/31 16:42:07 INF [RTSP] [conn [::1]:50382] opened
+2024/01/31 16:42:07 INF [RTSP] [session c61954a6] created by [::1]:50382
+2024/01/31 16:42:07 INF [RTSP] [session c61954a6] is reading from path 'slip-2', with TCP, 1 track (H264)
+2024/01/31 16:42:52 INF [RTSP] [session c61954a6] destroyed: torn down by [::1]:50382
+2024/01/31 16:42:52 INF [RTSP] [conn [::1]:50382] closed: EOF
+2024/01/31 16:46:12 INF [RTSP] [conn [::1]:38360] opened
+2024/01/31 16:46:12 INF [RTSP] [session bcdf74f7] created by [::1]:38360
+2024/01/31 16:46:12 INF [RTSP] [session bcdf74f7] is reading from path 'slip-2', with TCP, 1 track (H264)
+2024/01/31 16:48:13 INF [RTSP] [session bcdf74f7] destroyed: torn down by [::1]:38360
+2024/01/31 16:48:13 INF [RTSP] [conn [::1]:38360] closed: read tcp [::1]:8554->[::1]:38360: read: connection reset by peer
+2024/01/31 16:48:13 INF [RTSP] [conn [::1]:59086] opened
+2024/01/31 16:48:13 INF [RTSP] [session 8f928240] created by [::1]:59086
+2024/01/31 16:48:13 INF [RTSP] [session 8f928240] is reading from path 'slip-2', with TCP, 1 track (H264)
+2024/01/31 16:50:25 WAR [RTSP] [session 8f928240] write queue is full
+2024/01/31 16:50:27 WAR [RTSP] [session 8f928240] write queue is full
+2024/01/31 16:50:28 WAR [RTSP] [session 8f928240] write queue is full
+2024/01/31 16:50:29 WAR [RTSP] [session 8f928240] write queue is full
+2024/01/31 16:50:30 WAR [RTSP] [session 8f928240] write queue is full
+2024/01/31 16:50:31 WAR [RTSP] [session 8f928240] write queue is full
+2024/01/31 16:50:32 WAR [RTSP] [session 8f928240] write queue is full
+2024/01/31 16:50:33 WAR [RTSP] [session 8f928240] write queue is full
+2024/01/31 16:50:34 WAR [RTSP] [session 8f928240] write queue is full
+2024/01/31 16:50:35 WAR [RTSP] [session 8f928240] write queue is full
+2024/01/31 16:50:36 WAR [RTSP] [session 8f928240] write queue is full
+2024/01/31 16:50:37 WAR [RTSP] [session 8f928240] write queue is full
+2024/01/31 16:50:38 WAR [RTSP] [session 8f928240] write queue is full
+2024/01/31 16:50:39 WAR [RTSP] [session 8f928240] write queue is full
+2024/01/31 16:50:40 WAR [RTSP] [session 8f928240] write queue is full
+2024/01/31 16:50:41 INF [RTSP] [session 8f928240] destroyed: torn down by [::1]:59086
+2024/01/31 16:50:41 INF [RTSP] [conn [::1]:59086] closed: EOF
+2024/01/31 16:50:41 INF [RTSP] [conn [::1]:55358] opened
+2024/01/31 16:50:41 INF [RTSP] [session 58fbc908] created by [::1]:55358
+2024/01/31 16:50:41 INF [RTSP] [session 58fbc908] is reading from path 'slip-2', with TCP, 1 track (H264)
+2024/01/31 16:52:43 INF [RTSP] [session 58fbc908] destroyed: torn down by [::1]:55358
+2024/01/31 16:52:43 INF [RTSP] [conn [::1]:55358] closed: EOF
+2024/01/31 16:52:43 INF [RTSP] [conn [::1]:52724] opened
+2024/01/31 16:52:43 INF [RTSP] [session ec51c74a] created by [::1]:52724
+2024/01/31 16:52:43 INF [RTSP] [session ec51c74a] is reading from path 'slip-2', with TCP, 1 track (H264)
+2024/01/31 16:54:44 INF [RTSP] [session ec51c74a] destroyed: torn down by [::1]:52724
+2024/01/31 16:54:44 INF [RTSP] [conn [::1]:52724] closed: EOF
+2024/01/31 16:54:44 INF [RTSP] [conn [::1]:58620] opened
+2024/01/31 16:54:44 INF [RTSP] [session 37d2c5f5] created by [::1]:58620
+2024/01/31 16:54:44 INF [RTSP] [session 37d2c5f5] is reading from path 'slip-2', with TCP, 1 track (H264)
+2024/01/31 16:56:43 WAR [RTSP] [session 37d2c5f5] write queue is full
+2024/01/31 16:56:44 WAR [RTSP] [session 37d2c5f5] write queue is full
+2024/01/31 16:56:45 WAR [RTSP] [session 37d2c5f5] write queue is full
+2024/01/31 16:56:46 WAR [RTSP] [session 37d2c5f5] write queue is full
+2024/01/31 16:56:47 WAR [RTSP] [session 37d2c5f5] write queue is full
+2024/01/31 16:56:48 INF [RTSP] [session 37d2c5f5] destroyed: torn down by [::1]:58620
+2024/01/31 16:56:48 INF [RTSP] [conn [::1]:58620] closed: EOF
+2024/01/31 16:56:48 INF [RTSP] [conn [::1]:42426] opened
+2024/01/31 16:56:48 INF [RTSP] [session 5574216c] created by [::1]:42426
+2024/01/31 16:56:48 INF [RTSP] [session 5574216c] is reading from path 'slip-2', with TCP, 1 track (H264)
+2024/01/31 16:58:19 WAR [RTSP] [session 5574216c] write queue is full
+2024/01/31 16:58:20 WAR [RTSP] [session 5574216c] write queue is full
+2024/01/31 16:58:21 WAR [RTSP] [session 5574216c] write queue is full
+2024/01/31 16:58:22 WAR [RTSP] [session 5574216c] write queue is full
+2024/01/31 16:58:23 WAR [RTSP] [session 5574216c] write queue is full
+2024/01/31 16:58:24 WAR [RTSP] [session 5574216c] write queue is full
+2024/01/31 16:58:25 WAR [RTSP] [session 5574216c] write queue is full
+2024/01/31 16:58:26 WAR [RTSP] [session 5574216c] write queue is full
+2024/01/31 16:58:28 WAR [RTSP] [session 5574216c] write queue is full
+2024/01/31 16:58:29 WAR [RTSP] [session 5574216c] write queue is full
+2024/01/31 16:58:30 WAR [RTSP] [session 5574216c] write queue is full
+2024/01/31 16:58:31 WAR [RTSP] [session 5574216c] write queue is full
+2024/01/31 16:58:49 INF [RTSP] [session 5574216c] destroyed: torn down by [::1]:42426
+2024/01/31 16:58:49 INF [RTSP] [conn [::1]:42426] closed: EOF
+2024/01/31 17:29:23 INF [RTSP] [conn [::1]:49880] opened
+2024/01/31 17:29:23 INF [RTSP] [session 7cc54f51] created by [::1]:49880
+2024/01/31 17:29:23 INF [RTSP] [session 7cc54f51] is reading from path 'slip-2', with TCP, 1 track (H264)
+2024/01/31 17:29:24 INF [RTSP] [session 7cc54f51] destroyed: torn down by [::1]:49880
+2024/01/31 17:29:24 INF [RTSP] [conn [::1]:49880] closed: EOF
+2024/01/31 17:29:24 INF [RTSP] [conn [::1]:49888] opened
+2024/01/31 17:29:24 INF [RTSP] [session 1688a028] created by [::1]:49888
+2024/01/31 17:29:24 INF [RTSP] [session 1688a028] is reading from path 'slip-2', with TCP, 1 track (H264)
+2024/01/31 17:29:33 INF [RTSP] [session 1688a028] destroyed: torn down by [::1]:49888
+2024/01/31 17:29:33 INF [RTSP] [conn [::1]:49888] closed: EOF
+2024/01/31 17:39:58 INF [RTSP] [conn [::1]:48044] opened
+2024/01/31 17:39:58 INF [RTSP] [conn [::1]:48044] closed: EOF
+2024/01/31 17:39:58 INF [RTSP] [conn [::1]:48060] opened
+2024/01/31 17:39:58 INF [RTSP] [session 63dcbc08] created by [::1]:48060
+2024/01/31 17:39:58 INF [RTSP] [session 63dcbc08] is reading from path 'slip-1', with UDP, 1 track (H264)
+2024/01/31 17:40:04 INF [RTSP] [session 63dcbc08] destroyed: torn down by [::1]:48060
+2024/01/31 17:40:04 INF [RTSP] [conn [::1]:48060] closed: EOF
+2024/01/31 18:19:38 INF [RTSP] [conn [::1]:40104] opened
+2024/01/31 18:19:38 INF [RTSP] [conn [::1]:40104] closed: no one is publishing to path 'spli-0'
+2024/01/31 18:21:42 INF [RTSP] [conn [::1]:49986] opened
+2024/01/31 18:21:42 INF [RTSP] [conn [::1]:49986] closed: no one is publishing to path 'spli-0'
+2024/01/31 18:52:55 INF [RTSP] [conn [::1]:37636] opened
+2024/01/31 18:52:55 INF [RTSP] [conn [::1]:37636] closed: no one is publishing to path 'spli-0'
+2024/01/31 18:53:46 INF [RTSP] [conn [::1]:57504] opened
+2024/01/31 18:53:46 INF [RTSP] [conn [::1]:57504] closed: no one is publishing to path 'spli-0'
+2024/01/31 18:53:47 INF [RTSP] [conn [::1]:57514] opened
+2024/01/31 18:53:47 INF [RTSP] [conn [::1]:57514] closed: no one is publishing to path 'spli-0'
+2024/01/31 19:00:11 INF [RTSP] [conn [::1]:51120] opened
+2024/01/31 19:00:11 INF [RTSP] [session f5cbe5b0] created by [::1]:51120
+2024/01/31 19:00:11 INF [RTSP] [session f5cbe5b0] is reading from path 'slip-1', with TCP, 1 track (H264)
+2024/01/31 19:00:13 INF [RTSP] [session f5cbe5b0] destroyed: torn down by [::1]:51120
+2024/01/31 19:00:13 INF [RTSP] [conn [::1]:51120] closed: EOF
+2024/01/31 19:01:40 INF [RTSP] [conn [::1]:58454] opened
+2024/01/31 19:01:40 INF [RTSP] [session ba35db28] created by [::1]:58454
+2024/01/31 19:01:40 INF [RTSP] [session ba35db28] is reading from path 'slip-1', with TCP, 1 track (H264)
+2024/01/31 19:03:23 INF [RTSP] [conn [::1]:58454] closed: read tcp [::1]:8554->[::1]:58454: read: connection reset by peer
+2024/01/31 19:03:23 INF [RTSP] [session ba35db28] destroyed: not in use
+2024/01/31 19:06:07 INF [RTSP] [conn [::1]:59212] opened
+2024/01/31 19:06:07 INF [RTSP] [session 65280f37] created by [::1]:59212
+2024/01/31 19:06:07 INF [RTSP] [session 65280f37] is reading from path 'slip-1', with TCP, 1 track (H264)
+2024/01/31 19:11:36 INF [RTSP] [conn [::1]:59212] closed: read tcp [::1]:8554->[::1]:59212: read: connection reset by peer
+2024/01/31 19:11:36 INF [RTSP] [session 65280f37] destroyed: not in use
+2024/01/31 19:11:54 INF [RTSP] [conn [::1]:43448] opened
+2024/01/31 19:11:54 INF [RTSP] [session 8a5d234d] created by [::1]:43448
+2024/01/31 19:11:54 INF [RTSP] [session 8a5d234d] is reading from path 'slip-1', with TCP, 1 track (H264)
+2024/01/31 19:12:31 INF [RTSP] [conn [::1]:43448] closed: read tcp [::1]:8554->[::1]:43448: read: connection reset by peer
+2024/01/31 19:12:31 INF [RTSP] [session 8a5d234d] destroyed: not in use
+2024/01/31 19:22:01 INF [RTSP] [conn [::1]:55166] opened
+2024/01/31 19:22:01 INF [RTSP] [session b8964339] created by [::1]:55166
+2024/01/31 19:22:01 INF [RTSP] [session b8964339] is reading from path 'slip-1', with TCP, 1 track (H264)
+2024/01/31 19:26:01 INF [RTSP] [conn [::1]:55166] closed: read tcp [::1]:8554->[::1]:55166: read: connection reset by peer
+2024/01/31 19:26:01 INF [RTSP] [session b8964339] destroyed: not in use
+2024/01/31 19:27:42 INF [RTSP] [conn [::1]:53696] opened
+2024/01/31 19:27:42 INF [RTSP] [session b105ae42] created by [::1]:53696
+2024/01/31 19:27:42 INF [RTSP] [session b105ae42] is reading from path 'slip-1', with TCP, 1 track (H264)
+2024/01/31 19:29:04 INF [RTSP] [conn [::1]:53696] closed: read tcp [::1]:8554->[::1]:53696: read: connection reset by peer
+2024/01/31 19:29:04 INF [RTSP] [session b105ae42] destroyed: not in use
+2024/01/31 19:30:17 INF [RTSP] [conn [::1]:35900] opened
+2024/01/31 19:30:17 INF [RTSP] [session fd0a86b6] created by [::1]:35900
+2024/01/31 19:30:17 INF [RTSP] [session fd0a86b6] is reading from path 'slip-1', with TCP, 1 track (H264)
+2024/01/31 19:30:53 INF [RTSP] [conn [::1]:35900] closed: read tcp [::1]:8554->[::1]:35900: read: connection reset by peer
+2024/01/31 19:30:53 INF [RTSP] [session fd0a86b6] destroyed: not in use
+2024/01/31 19:36:29 INF [RTSP] [conn [::1]:52712] opened
+2024/01/31 19:36:29 INF [RTSP] [session 95003f3f] created by [::1]:52712
+2024/01/31 19:36:29 INF [RTSP] [session 95003f3f] is reading from path 'slip-1', with TCP, 1 track (H264)
+2024/01/31 19:38:17 INF [RTSP] [conn [::1]:52712] closed: read tcp [::1]:8554->[::1]:52712: read: connection reset by peer
+2024/01/31 19:38:17 INF [RTSP] [session 95003f3f] destroyed: not in use
+2024/01/31 19:39:40 INF [RTSP] [conn [::1]:35812] opened
+2024/01/31 19:39:40 INF [RTSP] [session f80bff3c] created by [::1]:35812
+2024/01/31 19:39:40 INF [RTSP] [session f80bff3c] is reading from path 'slip-1', with TCP, 1 track (H264)
+2024/01/31 19:40:35 INF [RTSP] [conn [::1]:35812] closed: read tcp [::1]:8554->[::1]:35812: read: connection reset by peer
+2024/01/31 19:40:35 INF [RTSP] [session f80bff3c] destroyed: not in use
+2024/01/31 19:40:56 INF [RTSP] [conn [::1]:41842] opened
+2024/01/31 19:40:56 INF [RTSP] [session fa03b8b9] created by [::1]:41842
+2024/01/31 19:40:56 INF [RTSP] [session fa03b8b9] is reading from path 'slip-1', with TCP, 1 track (H264)
+2024/01/31 19:42:23 INF [RTSP] [conn [::1]:41842] closed: read tcp [::1]:8554->[::1]:41842: read: connection reset by peer
+2024/01/31 19:42:23 INF [RTSP] [session fa03b8b9] destroyed: not in use
+2024/01/31 19:43:02 INF [RTSP] [conn [::1]:55194] opened
+2024/01/31 19:43:02 INF [RTSP] [session 06c30966] created by [::1]:55194
+2024/01/31 19:43:02 INF [RTSP] [session 06c30966] is reading from path 'slip-1', with TCP, 1 track (H264)
+2024/01/31 19:44:40 WAR [RTSP] [session 06c30966] write queue is full
+2024/01/31 19:44:41 WAR [RTSP] [session 06c30966] write queue is full
+2024/01/31 19:44:42 WAR [RTSP] [session 06c30966] write queue is full
+2024/01/31 19:44:43 WAR [RTSP] [session 06c30966] write queue is full
+2024/01/31 19:44:45 WAR [RTSP] [session 06c30966] write queue is full
+2024/01/31 19:44:46 WAR [RTSP] [session 06c30966] write queue is full
+2024/01/31 19:44:47 WAR [RTSP] [session 06c30966] write queue is full
+2024/01/31 19:44:47 INF [RTSP] [conn [::1]:55194] closed: EOF
+2024/01/31 19:44:47 INF [RTSP] [session 06c30966] destroyed: not in use
+2024/01/31 20:22:45 INF [RTSP] [conn 192.168.2.119:35486] opened
+2024/01/31 20:22:45 INF [RTSP] [session 59e51ea1] created by 192.168.2.119:35486
+2024/01/31 20:22:45 INF [RTSP] [session 59e51ea1] is reading from path 'slip-2', with TCP, 1 track (H264)
+2024/01/31 20:22:46 INF [RTSP] [session 59e51ea1] destroyed: torn down by 192.168.2.119:35486
+2024/01/31 20:22:46 INF [RTSP] [conn 192.168.2.119:35486] closed: EOF
+2024/01/31 20:22:46 INF [RTSP] [conn 192.168.2.119:35488] opened
+2024/01/31 20:22:46 INF [RTSP] [session bec607cb] created by 192.168.2.119:35488
+2024/01/31 20:22:46 INF [RTSP] [session bec607cb] is reading from path 'slip-2', with TCP, 1 track (H264)
+2024/01/31 20:22:58 INF [RTSP] [session bec607cb] destroyed: torn down by 192.168.2.119:35488
+2024/01/31 20:22:58 INF [RTSP] [conn 192.168.2.119:35488] closed: EOF
+2024/01/31 20:28:46 INF [RTSP] [conn 192.168.2.119:35510] opened
+2024/01/31 20:28:46 INF [RTSP] [session 7fb58f21] created by 192.168.2.119:35510
+2024/01/31 20:28:46 INF [RTSP] [session 7fb58f21] is reading from path 'slip-1', with TCP, 1 track (H264)
+2024/01/31 20:29:11 INF [RTSP] [conn 192.168.2.119:35510] closed: read tcp 192.168.2.64:8554->192.168.2.119:35510: read: connection reset by peer
+2024/01/31 20:29:11 INF [RTSP] [session 7fb58f21] destroyed: not in use
+2024/01/31 20:31:21 INF [RTSP] [conn 192.168.2.119:35516] opened
+2024/01/31 20:31:21 INF [RTSP] [session 1a3d94a3] created by 192.168.2.119:35516
+2024/01/31 20:31:21 INF [RTSP] [session 1a3d94a3] is reading from path 'slip-1', with TCP, 1 track (H264)
+2024/01/31 20:49:23 INF [RTSP] [conn 192.168.2.119:35516] closed: read tcp 192.168.2.64:8554->192.168.2.119:35516: read: connection reset by peer
+2024/01/31 20:49:23 INF [RTSP] [session 1a3d94a3] destroyed: not in use
+2024/01/31 20:55:56 INF [RTSP] [conn 192.168.2.119:35590] opened
+2024/01/31 20:55:56 INF [RTSP] [session 394620dd] created by 192.168.2.119:35590
+2024/01/31 20:55:56 INF [RTSP] [session 394620dd] is reading from path 'slip-1', with TCP, 1 track (H264)
+2024/01/31 20:58:20 WAR [RTSP] [session 394620dd] write queue is full
+2024/01/31 20:58:21 WAR [RTSP] [session 394620dd] write queue is full
+2024/01/31 20:58:22 WAR [RTSP] [session 394620dd] write queue is full
+2024/01/31 20:58:23 WAR [RTSP] [session 394620dd] write queue is full
+2024/01/31 20:58:24 WAR [RTSP] [session 394620dd] write queue is full
+2024/01/31 20:58:26 WAR [RTSP] [session 394620dd] write queue is full
+2024/01/31 20:58:27 WAR [RTSP] [session 394620dd] write queue is full
+2024/01/31 20:58:28 WAR [RTSP] [session 394620dd] write queue is full
+2024/01/31 20:58:29 WAR [RTSP] [session 394620dd] write queue is full
+2024/01/31 20:58:30 WAR [RTSP] [session 394620dd] write queue is full
+2024/01/31 20:58:31 WAR [RTSP] [session 394620dd] write queue is full
+2024/01/31 20:58:32 WAR [RTSP] [session 394620dd] write queue is full
+2024/01/31 20:58:33 WAR [RTSP] [session 394620dd] write queue is full
+2024/01/31 20:58:34 WAR [RTSP] [session 394620dd] write queue is full
+2024/01/31 20:58:35 WAR [RTSP] [session 394620dd] write queue is full
+2024/01/31 20:58:36 WAR [RTSP] [session 394620dd] write queue is full
+2024/01/31 20:58:37 WAR [RTSP] [session 394620dd] write queue is full
+2024/01/31 20:58:38 WAR [RTSP] [session 394620dd] write queue is full
+2024/01/31 20:58:39 WAR [RTSP] [session 394620dd] write queue is full
+2024/01/31 20:58:40 WAR [RTSP] [session 394620dd] write queue is full
+2024/01/31 20:58:41 WAR [RTSP] [session 394620dd] write queue is full
+2024/01/31 20:58:42 WAR [RTSP] [session 394620dd] write queue is full
+2024/01/31 20:58:43 WAR [RTSP] [session 394620dd] write queue is full
+2024/01/31 20:58:44 WAR [RTSP] [session 394620dd] write queue is full
+2024/01/31 20:58:45 WAR [RTSP] [session 394620dd] write queue is full
+2024/01/31 20:58:46 WAR [RTSP] [session 394620dd] write queue is full
+2024/01/31 20:58:47 WAR [RTSP] [session 394620dd] write queue is full
+2024/01/31 20:58:49 WAR [RTSP] [session 394620dd] write queue is full
+2024/01/31 20:58:50 WAR [RTSP] [session 394620dd] write queue is full
+2024/01/31 20:58:51 WAR [RTSP] [session 394620dd] write queue is full
+2024/01/31 20:58:52 WAR [RTSP] [session 394620dd] write queue is full
+2024/01/31 20:58:53 WAR [RTSP] [session 394620dd] write queue is full
+2024/01/31 20:58:54 WAR [RTSP] [session 394620dd] write queue is full
+2024/01/31 20:58:55 WAR [RTSP] [session 394620dd] write queue is full
+2024/01/31 20:58:56 WAR [RTSP] [session 394620dd] write queue is full
+2024/01/31 20:58:57 WAR [RTSP] [session 394620dd] write queue is full
+2024/01/31 20:58:58 WAR [RTSP] [session 394620dd] write queue is full
+2024/01/31 20:58:59 WAR [RTSP] [session 394620dd] write queue is full
+2024/01/31 20:59:00 WAR [RTSP] [session 394620dd] write queue is full
+2024/01/31 20:59:01 WAR [RTSP] [session 394620dd] write queue is full
+2024/01/31 20:59:02 WAR [RTSP] [session 394620dd] write queue is full
+2024/01/31 20:59:03 WAR [RTSP] [session 394620dd] write queue is full
+2024/01/31 20:59:04 WAR [RTSP] [session 394620dd] write queue is full
+2024/01/31 20:59:05 WAR [RTSP] [session 394620dd] write queue is full
+2024/01/31 20:59:06 INF [RTSP] [conn 192.168.2.119:35590] closed: EOF
+2024/01/31 20:59:06 INF [RTSP] [session 394620dd] destroyed: not in use
+2024/01/31 21:04:13 INF [RTSP] [conn 192.168.2.119:44972] opened
+2024/01/31 21:04:13 INF [RTSP] [session 98009811] created by 192.168.2.119:44972
+2024/01/31 21:04:13 INF [RTSP] [session 98009811] is reading from path 'slip-1', with TCP, 1 track (H264)
+2024/01/31 21:07:27 INF [RTSP] [conn 192.168.2.119:44972] closed: read tcp 192.168.2.64:8554->192.168.2.119:44972: read: connection reset by peer
+2024/01/31 21:07:27 INF [RTSP] [session 98009811] destroyed: not in use
+2024/01/31 21:07:58 INF [RTSP] [conn 192.168.2.119:44978] opened
+2024/01/31 21:07:58 INF [RTSP] [session c9f26b38] created by 192.168.2.119:44978
+2024/01/31 21:07:58 INF [RTSP] [session c9f26b38] is reading from path 'slip-1', with TCP, 1 track (H264)
+2024/01/31 21:12:07 INF [RTSP] [conn 192.168.2.119:44978] closed: read tcp 192.168.2.64:8554->192.168.2.119:44978: read: connection reset by peer
+2024/01/31 21:12:07 INF [RTSP] [session c9f26b38] destroyed: not in use
+2024/01/31 21:13:03 INF [RTSP] [conn 192.168.2.119:44984] opened
+2024/01/31 21:13:03 INF [RTSP] [session 6fa4537c] created by 192.168.2.119:44984
+2024/01/31 21:13:03 INF [RTSP] [session 6fa4537c] is reading from path 'slip-1', with TCP, 1 track (H264)
+2024/01/31 21:16:43 WAR [RTSP] [session 6fa4537c] write queue is full
+2024/01/31 21:16:44 WAR [RTSP] [session 6fa4537c] write queue is full
+2024/01/31 21:16:46 WAR [RTSP] [session 6fa4537c] write queue is full
+2024/01/31 21:16:47 WAR [RTSP] [session 6fa4537c] write queue is full
+2024/01/31 21:16:48 WAR [RTSP] [session 6fa4537c] write queue is full
+2024/01/31 21:16:49 WAR [RTSP] [session 6fa4537c] write queue is full
+2024/01/31 21:16:50 WAR [RTSP] [session 6fa4537c] write queue is full
+2024/01/31 21:16:51 WAR [RTSP] [session 6fa4537c] write queue is full
+2024/01/31 21:16:52 WAR [RTSP] [session 6fa4537c] write queue is full
+2024/01/31 21:16:54 WAR [RTSP] [session 6fa4537c] write queue is full
+2024/01/31 21:16:55 WAR [RTSP] [session 6fa4537c] write queue is full
+2024/01/31 21:16:56 WAR [RTSP] [session 6fa4537c] write queue is full
+2024/01/31 21:16:58 WAR [RTSP] [session 6fa4537c] write queue is full
+2024/01/31 21:17:00 WAR [RTSP] [session 6fa4537c] write queue is full
+2024/01/31 21:17:04 WAR [RTSP] [session 6fa4537c] write queue is full
+2024/01/31 21:17:05 WAR [RTSP] [session 6fa4537c] write queue is full
+2024/01/31 21:17:06 WAR [RTSP] [session 6fa4537c] write queue is full
+2024/01/31 21:17:07 WAR [RTSP] [session 6fa4537c] write queue is full
+2024/01/31 21:17:08 WAR [RTSP] [session 6fa4537c] write queue is full
+2024/01/31 21:17:09 WAR [RTSP] [session 6fa4537c] write queue is full
+2024/01/31 21:17:10 WAR [RTSP] [session 6fa4537c] write queue is full
+2024/01/31 21:17:11 WAR [RTSP] [session 6fa4537c] write queue is full
+2024/01/31 21:17:12 WAR [RTSP] [session 6fa4537c] write queue is full
+2024/01/31 21:17:13 WAR [RTSP] [session 6fa4537c] write queue is full
+2024/01/31 21:17:14 WAR [RTSP] [session 6fa4537c] write queue is full
+2024/01/31 21:17:15 WAR [RTSP] [session 6fa4537c] write queue is full
+2024/01/31 21:17:16 WAR [RTSP] [session 6fa4537c] write queue is full
+2024/01/31 21:17:17 WAR [RTSP] [session 6fa4537c] write queue is full
+2024/01/31 21:17:18 WAR [RTSP] [session 6fa4537c] write queue is full
+2024/01/31 21:17:19 WAR [RTSP] [session 6fa4537c] write queue is full
+2024/01/31 21:17:20 WAR [RTSP] [session 6fa4537c] write queue is full
+2024/01/31 21:17:21 WAR [RTSP] [session 6fa4537c] write queue is full
+2024/01/31 21:17:22 INF [RTSP] [conn 192.168.2.119:44984] closed: received unexpected response
+2024/01/31 21:17:22 INF [RTSP] [session 6fa4537c] destroyed: not in use
+2024/01/31 21:17:23 INF [RTSP] [conn 192.168.2.119:44994] opened
+2024/01/31 21:17:23 INF [RTSP] [session c7766597] created by 192.168.2.119:44994
+2024/01/31 21:17:23 INF [RTSP] [session c7766597] is reading from path 'slip-1', with TCP, 1 track (H264)
+2024/01/31 21:17:33 WAR [RTSP] [session c7766597] write queue is full
+2024/01/31 21:17:34 WAR [RTSP] [session c7766597] write queue is full
+2024/01/31 21:17:35 WAR [RTSP] [session c7766597] write queue is full
+2024/01/31 21:17:36 WAR [RTSP] [session c7766597] write queue is full
+2024/01/31 21:17:37 WAR [RTSP] [session c7766597] write queue is full
+2024/01/31 21:17:38 WAR [RTSP] [session c7766597] write queue is full
+2024/01/31 21:17:39 WAR [RTSP] [session c7766597] write queue is full
+2024/01/31 21:17:40 WAR [RTSP] [session c7766597] write queue is full
+2024/01/31 21:17:41 WAR [RTSP] [session c7766597] write queue is full
+2024/01/31 21:17:44 WAR [RTSP] [session c7766597] write queue is full
+2024/01/31 21:17:45 WAR [RTSP] [session c7766597] write queue is full
+2024/01/31 21:17:46 WAR [RTSP] [session c7766597] write queue is full
+2024/01/31 21:17:47 WAR [RTSP] [session c7766597] write queue is full
+2024/01/31 21:17:48 WAR [RTSP] [session c7766597] write queue is full
+2024/01/31 21:17:49 WAR [RTSP] [session c7766597] write queue is full
+2024/01/31 21:17:50 WAR [RTSP] [session c7766597] write queue is full
+2024/01/31 21:17:58 INF [RTSP] [conn 192.168.2.119:44994] closed: read tcp 192.168.2.64:8554->192.168.2.119:44994: read: connection reset by peer
+2024/01/31 21:17:58 INF [RTSP] [session c7766597] destroyed: not in use
